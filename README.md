@@ -1,6 +1,7 @@
 # GPT_GNN_3D_partitioner
 ## A GPT-GNN based verilog netlist partitioner for 3D IC design
 Authors: Azwad Tamir & Milad Salem
+
 [Only a part of the entire work is presented here due to copywrite issues as it was a company funded project]
 
 ## Background: 
