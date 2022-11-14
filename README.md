@@ -1,6 +1,7 @@
 # GPT_GNN_3D_partitioner
 ## A GPT-GNN based verilog netlist partitioner for 3D IC design
 Authors: Azwad Tamir & Milad Salem
+[Only a part of the entire work is presented here due to copywrite issues as it was a company funded project]
 
 ## Background: 
 As the channel length of modern IC technology shrinks down to nanometer scale, it is no longer possible to keep up with the trend of increased performance of digital ICs like processors and GPUs with transistor dimensionality reduction alone. This warrants a paradigm shift and one of the most promising advances that is likely to take up central stage is three dimensional ICs. Already several 3D IC technologies have been proposed in the scientific community but with the lack of fully automated 3D commercial P&R tool, it is very difficult to fabricate and test these ICs in the real world. 
