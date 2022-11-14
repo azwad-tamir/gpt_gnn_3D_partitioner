@@ -18,6 +18,8 @@ The following step outlines the implementation:
 * Download and install the required python libraries by running 
     >> pip install -r requirements.txt
   
+* Install torch 1.10.2, torch-vision 0.11.3 , torch-audio 0.10.2, torch-scatter 2.0.9, torch-sparse 0.6.12, torch-geometric 2.0.3, torch-cluster 1.5.9 and torch-spline-conv 1.2.1 for the CUDA version currently installed in your system.
+
 * Copy the input verilog gatelevel netlist, features, cell list and initial 2D placement into the data directory.
 
 * Run:
